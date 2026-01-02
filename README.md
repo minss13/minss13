@@ -1,4 +1,4 @@
-My name is Mina Türkyaşar. I am a freshman student at Bilkent University. My major is CS (computer science) and I am currently learning Java.
+My name is Mina Türkyaşar. I am a freshman student at Bilkent University. My major is CS and I am currently learning Java.
 
 <!--
 **minss13/minss13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
